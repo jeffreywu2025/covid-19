@@ -22,19 +22,6 @@ Visualizations:
 🗓️ Monthly average trend of new cases (line chart)
 All charts are automatically saved in the covid_visualizations/ directory.
 
-🧩 Project Structure
-covid_analysis/
-│
-├── covid_analysis.py       # Main analysis script
-├── covid_visualizations/   # Output charts (auto-created)
-│   ├── global_new_cases.png
-│   ├── top_10_countries_total_cases.png
-│   └── monthly_trend.png
-└── README.md               # Project documentation
-🛠️ Requirements
-Make sure you have Python 3.8+ and install the following libraries:
-pip install pandas matplotlib requests
-
 ▶️ How to Run
 Clone this repository or copy the script:
 git clone https://github.com/yourusername/covid-analysis.git
